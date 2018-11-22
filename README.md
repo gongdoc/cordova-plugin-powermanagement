@@ -1,5 +1,8 @@
 PowerManagement
 ===============
+
+Android에서 PARTIAL_WAKE_LOCK 방식의 WakeLock 을 구현하기 위하여 코드 수정
+
 Plugin for Cordova (3.0+)
 
 The PowerManagement plugin offers access to the devices power-management functionality.
